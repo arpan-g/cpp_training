@@ -1,0 +1,5 @@
+﻿  ComplexExercise.cpp
+c:\users\administrator\desktop\exercises\l4\complex\complexexercise.cpp(26): error C2677: binary '*': no global operator found which takes type 'const Complex' (or there is no acceptable conversion)
+  Complex.cpp
+  Generating Code...
+c:\users\administrator\desktop\exercises\l4\complex\complex.cpp(28): warning C4172: returning address of local variable or temporary
